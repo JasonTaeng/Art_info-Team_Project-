@@ -1,0 +1,40 @@
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+	margin: 0;
+}	
+li{
+	list-style: none;
+	padding: 8px 12px;
+}
+#navbar {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 75px;
+	background-color: maroon;
+	margin: 0;
+	padding: 8px 12px;
+}
+#navbar a {
+	text-decoration: none;
+	color: white;
+}
+.dropdown-toggle {
+	background-color: maroon !important; 
+}
+.dropdown-menu li {
+	background-color: brown !important; 
+}
+.dropdown-menu li a:hover {
+	background-color: #804040 !important;
+}
+#navbar_menu {
+	display: flex;
+	padding-left: 0;
+	font-size: 20px;
+}
+#navbar_login {
+	display: flex;
+	list-style: none;
+	padding-left: 0;
+}

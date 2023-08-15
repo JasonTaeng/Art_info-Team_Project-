@@ -1,0 +1,33 @@
+#p1 li {
+    padding: 0;
+}		
+.my-table, .my-table th {
+    text-align: center;
+}
+.container.edit {
+    width: 50%;
+}
+.container.detail {
+    width: 50%;
+}
+.r-edit{
+	width: 50%;
+}
+.r-write{
+	width: 50%;
+}
+span#in_content {
+    display: inline-block;
+    height: 200px;
+    overflow-y: scroll;
+}
+span#in_reply_content{
+	display: inline-block;
+    height: 200px;
+    overflow-y: scroll;
+}
+textarea.form-control {
+    display: inline-block;
+    height: 200px;
+    overflow-y: scroll;
+}
