@@ -30,6 +30,22 @@
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/37a9cd06-c3ff-4719-bb97-613495cd26e4" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/d2062c00-2f1d-4b2d-a48b-a693ddadffa9" width="49%"></img>
 
+- 커뮤니티 - 공지사항 게시판
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/40b7c38a-0018-45cb-a058-045032bf146f" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/660eb8fd-0316-4394-9e8b-9a7152f85318" width="49%"></img>
+
+- 커뮤니티 - 자유게시판
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/3fb40d7c-d597-450b-be2b-945de2f16672" width="49%"></img>
+
+- 커뮤니티 - 공연후기 게시판
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/a45c4e22-c72c-45d1-b2d8-4b7b3870bbf8" width="49%"></img>
+
+- 커뮤니티 - 1:1 문의하기 게시판
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/02edb76e-8755-4bfc-90a8-c6f0c15b06b7" width="49%"></img>
 
 ## ERD
 
