@@ -2,9 +2,11 @@
 콘서트, 영화 등 공연예술에 대한 정보를 얻고, 회원간 커뮤니티 기능이 있는 사이트
 
 ## ScreenShots
+
 - 메인 페이지
 
-![메인페이지](https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/76396755-174c-4211-967b-9a0d20fbf240)
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/76396755-174c-4211-967b-9a0d20fbf240" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/3d61661f-a55e-44bd-b7cb-875d93d02114" width="49%"></img>
 
 - 로그인 화면 / 로그인 성공화면
 
@@ -16,11 +18,17 @@
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/425b3a95-1212-4e93-9c9b-bdf49ff22889" width="49%"></img>
 
-- 회원관리 화면 / 회원관리 - 조건검색 / 회원관리 - 상태,등급 변경
+- 회원관리 화면 / 회원관리 - 조건검색 / 회원관리 - 상태,등급 변경 / 회원정보
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/c5638d85-b116-4807-b0f1-172de70f6073" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/e5729926-dbea-4c72-9c3b-a9c48e3a9b5a" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/59c43b5a-24f9-448b-bb69-631bd57f78c6" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/6a890946-d00c-4017-b661-4bc4e5cc4794" width="49%"></img>
+
+- 공연소식관리
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/37a9cd06-c3ff-4719-bb97-613495cd26e4" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/d2062c00-2f1d-4b2d-a48b-a693ddadffa9" width="49%"></img>
 
 
 ## ERD
