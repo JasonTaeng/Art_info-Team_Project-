@@ -49,7 +49,7 @@
 
 - 회원가입
 
-ajax를 이용한한 아이디 중복검사
+ajax를 이용한 아이디 중복검사
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/425b3a95-1212-4e93-9c9b-bdf49ff22889" width="49%"></img>
 
