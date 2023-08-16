@@ -34,10 +34,13 @@
 
 - 메인 페이지
 
+FrontController를 통한 Restful한 URL 설계
 포스터 클릭시 bootstrap을 이용해 모달창 열기
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/76396755-174c-4211-967b-9a0d20fbf240" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/3d61661f-a55e-44bd-b7cb-875d93d02114" width="49%"></img>
+
+<br><br>
 
 - 로그인 화면 / 로그인 성공화면
 
@@ -47,30 +50,51 @@
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/646c43c4-2a52-4242-b0fb-e72392bc721d" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/58423d74-d554-4705-b65a-fe3a9979a136" width="49%"></img>
 
+<br><br>
+
 - 회원가입
 
 ajax를 이용한 아이디 중복검사
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/425b3a95-1212-4e93-9c9b-bdf49ff22889" width="49%"></img>
 
-- 회원관리 화면 / 회원관리 - 조건검색 / 회원관리 - 상태,등급 변경 / 회원정보
+<br><br>
 
+- 회원관리 화면 / 조건검색 / 상태,등급 변경 / 회원정보
 
+jQuery를 이용한 user DB 변경
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/c5638d85-b116-4807-b0f1-172de70f6073" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/e5729926-dbea-4c72-9c3b-a9c48e3a9b5a" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/59c43b5a-24f9-448b-bb69-631bd57f78c6" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/6a890946-d00c-4017-b661-4bc4e5cc4794" width="49%"></img>
 
+<br><br>
+
 - 공연소식관리
 
+카카오 맵 api를 이용한 공연 장소 구현 
+
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/70ca4e56-4851-4e22-85eb-2052b7422753" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/37a9cd06-c3ff-4719-bb97-613495cd26e4" width="49%"></img>
-<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/d2062c00-2f1d-4b2d-a48b-a693ddadffa9" width="49%"></img>
+
+<br><br>
 
 - 커뮤니티 - 공지사항 게시판
 
+1. 글 목록 페이지:   
+jQuery를 이용한 일괄 공개,비공개,삭제 구현
+DB의 게시글과 댓글 테이블 join을 이용한 댓글 수 표시
+게시글 검색기능 구현
+
+2. 첨부파일 업로드:   
+Binary 형태로 DB에 직접 저장하는 방법과
+웹 서버에 저장하는 방법 모두 구현
+
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/40b7c38a-0018-45cb-a058-045032bf146f" width="49%"></img>
-<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/660eb8fd-0316-4394-9e8b-9a7152f85318" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/c92839a2-b479-4535-a632-26191a098636" width="49%"></img>
+
+<br><br>
 
 - 커뮤니티 - 자유게시판
 
@@ -85,6 +109,7 @@ ajax를 이용한 아이디 중복검사
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/02edb76e-8755-4bfc-90a8-c6f0c15b06b7" width="49%"></img>
 
 ## ERD
+
 
 - Full Shot
 
