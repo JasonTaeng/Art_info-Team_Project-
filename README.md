@@ -34,7 +34,7 @@
 
 - 메인 페이지
 
-포스터 클릭시 bootstrap을 이용하여 모달창 열기
+포스터 클릭시 bootstrap을 이용해 모달창 열기
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/76396755-174c-4211-967b-9a0d20fbf240" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/3d61661f-a55e-44bd-b7cb-875d93d02114" width="49%"></img>
@@ -47,10 +47,9 @@
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/646c43c4-2a52-4242-b0fb-e72392bc721d" width="49%"></img>
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/58423d74-d554-4705-b65a-fe3a9979a136" width="49%"></img>
 
-
 - 회원가입
 
-ajax를 이용해 아이디 중복검사
+ajax를 이용한한 아이디 중복검사
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/425b3a95-1212-4e93-9c9b-bdf49ff22889" width="49%"></img>
 
