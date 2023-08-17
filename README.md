@@ -102,7 +102,7 @@ Binary 형태로 DB에 직접 저장하는 방법과
 
 - 커뮤니티 - 공연후기 게시판
 
-<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/a45c4e22-c72c-45d1-b2d8-4b7b3870bbf8" width="49%"></img>
+<img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/70b28577-97cf-49f3-99f4-5307060fb2d9" width="49%"></img>
 
 - 커뮤니티 - 1:1 문의하기 게시판
 
