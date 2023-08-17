@@ -1,5 +1,5 @@
 # 공연예술 소식 사이트
-1. 주제: 콘서트, 영화 등 공연예술에 대한 정보를 얻고, 회원간 커뮤니티 기능이 있는 사이트<br>
+1. 주제: 콘서트, 영화 등 공연예술에 대한 정보를 얻고, 회원간 커뮤니티 기능이 있는 사이트
 
 2. 설명: Restfull한 URL, Front컨트롤러에서 통일된 경로 처리, contextPath 경로 Cookie를 통한 alert 메시지 띄우기 및 삭제 (컨트롤러 URL 노출 차단)
 즉, Front컨트롤러 버전 2와 유사한 MVC패턴으로 프로젝트 기획.
@@ -12,6 +12,7 @@
 4. 제작기간 / 참여인원: 2023.05.01 ~ 2023.06.07(약 5주) / 4명
 
 5. 기술스택
+
 <table>
   <tr>
     <td>Frontend</td>
@@ -24,6 +25,7 @@
 </table>
 
 6. 개발환경
+
 <table>
   <tr>
     <td>OS</td>
@@ -34,6 +36,8 @@
     <td>Eclipse</td>
   </tr>
 </table>
+
+<br><br>
 
 ## ScreenShots
 
@@ -112,8 +116,9 @@ Binary 형태로 DB에 직접 저장하는 방법과
 
 <img src="https://github.com/JasonTaeng/Art_info-Team_Project-/assets/134661987/02edb76e-8755-4bfc-90a8-c6f0c15b06b7" width="49%"></img>
 
-## ERD
+<br><br>
 
+## ERD
 
 - Full Shot
 
